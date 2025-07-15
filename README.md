@@ -24,7 +24,7 @@ Raster Function Teaplate XML files to use with HLS Mosaic Datasets. These empowe
 ## Making STAC Connections
 ArcGIS Pro provides a graphical user interface for making STAC Connections to browse, search and select item(s) for use in Maps, Scenes and Mosaic Datasets. https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/create-a-stac-connection.htm 
 
-## Automation in HLS Mosaic Dstaset management
+## Automation in HLS Mosaic Dataset management
 A Python ntebook is provided to automate the imagery management steps with HLS v2 data including:
 * Query STAC over time and space and writing results into CSV file
 * Create Mosaic Dataset with HLS v2 band names
